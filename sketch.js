@@ -67,16 +67,20 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16657
 
             imgs[27] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1690143505/BanTShirt_czxscc.png')
 
-            //   imgs[28] = loadImage('  https://res.cloudinary.com/painkillerkid/image/upload/v1690143028/BanTShirt_s4lsyn.png')
+              imgs[28] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1702358580/dUMBYDUMBY_ecjlwj.png')
     
-            // imgs[29] = loadImage('  https://res.cloudinary.com/painkillerkid/image/upload/v1690143028/BanTShirt_s4lsyn.png')
+            imgs[29] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1702358580/dUMBYDUMBY2_b2qxic.png')
     
-            // imgs[30] = loadImage('  https://res.cloudinary.com/painkillerkid/image/upload/v1690143028/BanTShirt_s4lsyn.png')
+            imgs[30] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1702358579/dUMBYDUMBY3_pbqtlt.png')
     
-            // imgs[31] = loadImage('  https://res.cloudinary.com/painkillerkid/image/upload/v1690143028/BanTShirt_s4lsyn.png')
+            imgs[31] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1702358578/dUMBYDUMBY4_aovorj.png')
     
-            // imgs[32] = loadImage('  https://res.cloudinary.com/painkillerkid/image/upload/v1690143028/BanTShirt_s4lsyn.png')
+            imgs[32] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1702358577/dUMBYDUMBY5_uh2rjb.png')
     
+                imgs[33] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1702358536/dUMBYDUMBY6_la4pud.png')
+    
+            // imgs[34] = loadImage('  https://res.cloudinary.com/painkillerkid/image/upload/v1690143028/BanTShirt_s4lsyn.png')
+
 
   mod = loadModel('Finished_Voldemort_3dthing.obj')
 }
