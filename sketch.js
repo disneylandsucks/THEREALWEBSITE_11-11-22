@@ -79,7 +79,19 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16657
     
                 imgs[33] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1702358536/dUMBYDUMBY6_la4pud.png')
     
-            // imgs[34] = loadImage('  https://res.cloudinary.com/painkillerkid/image/upload/v1690143028/BanTShirt_s4lsyn.png')
+            imgs[34] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1703116122/DontSayTHeNWord_re92ip.png')
+
+            // imgs[35] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1703116122/DontSayTHeNWord_re92ip.png')
+
+            // imgs[36] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1703116122/DontSayTHeNWord_re92ip.png')
+
+            // imgs[37] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1703116122/DontSayTHeNWord_re92ip.png')
+
+            // imgs[38] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1703116122/DontSayTHeNWord_re92ip.png')
+
+            // imgs[39] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1703116122/DontSayTHeNWord_re92ip.png')
+
+            // imgs[40] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1703116122/DontSayTHeNWord_re92ip.png')
 
 
   mod = loadModel('Finished_Voldemort_3dthing.obj')
