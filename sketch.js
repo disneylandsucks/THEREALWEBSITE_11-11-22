@@ -83,7 +83,7 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16657
 
             imgs[35] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1711887316/Seriously_dont_say_the_n_word_sghznn.png')
 
-            // imgs[36] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1703116122/DontSayTHeNWord_re92ip.png')
+            imgs[36] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1713263210/shirtthing_lcdhlo.png')
 
             // imgs[37] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1703116122/DontSayTHeNWord_re92ip.png')
 
