@@ -30,7 +30,7 @@ imgs[3]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16863
     imgs[14]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686357712/MxmToonShirt_zhevxr.png')
     imgs[15]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686166199/drawingshirt_cp21m2.png')
     imgs[16]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665888592/OSKIWEDDING_SHIRT_tz6okn.png')
-
+    imgs[17]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1747793657/NEWVERSION_WEBSITEPOLITICALLYcorrect1_efhrux.png')
 
 //     imgs[2]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665773929/OSKI_BIRTHDAY_SHIRT3d_resized_or4zka.png')
 //  imgs[3] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665773929/DemnaShirt_resized_ko0nu6.png') 
