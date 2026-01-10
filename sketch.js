@@ -31,7 +31,9 @@ imgs[3]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v17680
     imgs[15]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1768079117/oskiwedding_remix5_d6fsei.png')
     imgs[16]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1768081380/oskiwedding_remix91_mwezat.png')
     imgs[17]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1768081197/oskiwedding_remix8_hjhfpk.png')
-    imgs[18]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1747794448/NEWVERSION_WEBSITEPOLITICALLYcorrect1_m4rxll.png')
+    imgs[18]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1768082276/oskiwedding_remix911_hizskr.png')
+    imgs[19]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1768082276/oskiwedding_remix9111_wm1smu.png')
+    imgs[20]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1747794448/NEWVERSION_WEBSITEPOLITICALLYcorrect1_m4rxll.png')
 
 
 //     imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665773929/SCREENPRINT_Shirt_resized_ujjqp1.png')
