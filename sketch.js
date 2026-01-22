@@ -34,7 +34,8 @@ imgs[3]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v17680
     imgs[18]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1768082276/oskiwedding_remix911_hizskr.png')
     imgs[19]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1768082276/oskiwedding_remix9111_wm1smu.png')
     imgs[20]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1747794448/NEWVERSION_WEBSITEPOLITICALLYcorrect1_m4rxll.png')
-    imgs[20]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1768972743/Voldemort_FourBySixSticker1_irsevu.png')
+    imgs[21]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1768972743/Voldemort_FourBySixSticker1_irsevu.png')
+        imgs[22]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1769057014/Voldemort_FourBySixSticker11111_ioivo3.png')
 
 
 //     imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665773929/SCREENPRINT_Shirt_resized_ujjqp1.png')
