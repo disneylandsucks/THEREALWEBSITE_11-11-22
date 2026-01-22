@@ -36,7 +36,7 @@ imgs[3]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v17680
     imgs[20]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1747794448/NEWVERSION_WEBSITEPOLITICALLYcorrect1_m4rxll.png')
     imgs[21]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1768972743/Voldemort_FourBySixSticker1_irsevu.png')
         imgs[22]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1769057014/Voldemort_FourBySixSticker11111_ioivo3.png')
-
+        imgs[23]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1769114806/Voldemort_FourBySixSticker1111111_n2mtg8.png')
 
 //     imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665773929/SCREENPRINT_Shirt_resized_ujjqp1.png')
 //  imgs[1] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1665773929/voldemort_shirt_resized_ytqhl7.png') 
